@@ -1,0 +1,29 @@
+commit 0928d510abd89b0e7cb6dc9126232817876e7dec
+Author: costaintel <costaintel@gmail.com>
+Date:   Thu Sep 5 08:39:14 2019 +0200
+
+    feat: reajustments
+
+commit f08abc2474cf35894322efc8f2649f7af1d40bf7
+Author: costaintel <costaintel@gmail.com>
+Date:   Wed Aug 7 10:02:16 2019 +0200
+
+    fix: format corrections
+
+commit 9c67b6043e5d062ea4a210fb00eaef683a11ae84
+Author: costaintel <costaintel@gmail.com>
+Date:   Sat May 4 15:55:27 2019 +0200
+
+    feat(global): remove uml folder
+
+commit 7bd0caa5ef84db38fcb96192b5caddb0c136d676
+Author: costaintel <costaintel@gmail.com>
+Date:   Sat May 4 15:54:29 2019 +0200
+
+    feat(global): first design pattern view
+
+commit cca6e8b936b41593bb75ca6255a2dd336b366b9b
+Author: vadimMelenciuc <costaintel@gmail.com>
+Date:   Sun Oct 28 13:54:13 2018 +0100
+
+    feat(global): Initial commit

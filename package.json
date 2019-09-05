@@ -1,0 +1,20 @@
+{
+  "name": "typescript-design-patterns",
+  "version": "1.0.0",
+  "description": "Typescript design patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "design",
+    "patterns"
+  ],
+  "author": "Vadim Melenciuc",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^11.9.5",
+    "typescript": "^3.5.3"
+  }
+}
